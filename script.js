@@ -14,7 +14,7 @@ resulte.innerHTML = "";
 localStorage.removeItem("Data");
 };
 
- onload = ()=>{
-    textCode.value =  localStorage.getItem("Data");
-    };
+//  onload = ()=>{
+//     textCode.value =  localStorage.getItem("Data");
+//     };
  
